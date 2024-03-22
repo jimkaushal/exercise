@@ -1,0 +1,22 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "This repo contains exercises",
+  "main": "CSVReader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimkaushal/exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimkaushal/exercise/issues"
+  },
+  "homepage": "https://github.com/jimkaushal/exercise#readme",
+  "dependencies": {
+    "fast-csv": "^5.0.1"
+  }
+}
